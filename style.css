@@ -2,7 +2,44 @@
     color:rgb(178, 128, 224);
 }
 
-h1 {
-    text-align: center;
-    color:red;
+#titlebar{
+    background-color: white;
+    padding:5px;
+    border-radius: 5px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+
+
+#stock{
+    background-color: black;
+    padding:5px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;  
+}
+
+
+#infobox{
+    background-color: #dddbdc;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 450px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+body{
+        background-color: #9c9a9d;
+        
+}
+
+
