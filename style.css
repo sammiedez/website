@@ -12,14 +12,19 @@
     justify-content: center;
 }
 
-
+#leader{
+    background-color: #b0e484;
+    width:350px;
+    height:200px;
+    margin-top:10px; 
+}
 
 #stock{
     background-color: black;
     padding:5px;
     border-radius: 5px;
     color: white;
-    margin-top: 200px;
+    margin-top: 10px;
     display: flex;
     justify-content: center;  
 }
@@ -35,6 +40,7 @@
     justify-content: center;
 
 }
+
 
 
 body{
